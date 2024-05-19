@@ -1,6 +1,6 @@
 # lessonscheduleandroid
 
-A Mobile App Which Schedules Lessons
+A Mobile App Which Schedules Lessons With Genetic Algorithm
 
 ## Getting Started
 
